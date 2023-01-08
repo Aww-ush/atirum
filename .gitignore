@@ -1,4 +1,4 @@
-/nodemodule
+./nodemodule
 ./cache
 dist/
 .env
