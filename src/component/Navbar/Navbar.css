@@ -1,4 +1,12 @@
-.main {
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  outline: 1.5px solid black;
+  padding: 8px;
+}
+.logo-text {
   display: flex;
   align-items: center;
   justify-content: left;
