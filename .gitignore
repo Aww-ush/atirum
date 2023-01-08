@@ -1,0 +1,8 @@
+/nodemodule
+./cache
+dist/
+.env
+coverage/
+.vscode
+.parcel-cache
+.prettierignore

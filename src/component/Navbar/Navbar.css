@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+.logo {
+  width: 70px;
+}
+.logo img {
+  width: 80%;
+  height: auto;
+}
+.text {
+  margin: 5px;
+  padding: auto;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+}
+.text-top {
+  font-weight: 50;
+  font-family: "volina", "Moon Dance", "Open Sans", sans-serif, cursive;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-stretch: ultra-expanded;
+}
+.text-bottom {
+  margin: 0;
+  font-size: 14px;
+  line-height: 80%;
+  letter-spacing: 0.1em;
+}
